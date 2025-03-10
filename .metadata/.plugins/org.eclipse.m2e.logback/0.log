@@ -1,0 +1,13 @@
+2025-03-10 21:35:48,789 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-03-10 21:41:44,973 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TestFramework:SeleniumFramworkDesign:0.0.1-SNAPSHOT @ C:\Users\kdcha\git\TestFramework\pom.xml.
+2025-03-10 21:41:44,973 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TestFramework:SeleniumFramworkDesign:0.0.1-SNAPSHOT @ C:\Users\kdcha\git\TestFramework\pom.xml.
+2025-03-10 21:41:47,871 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-03-10 21:41:47,871 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kdcha\git\TestFramework\src\main\resources
+2025-03-10 21:41:47,878 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-03-10 21:41:47,878 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kdcha\git\TestFramework\src\test\resources
+2025-03-10 21:41:49,635 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TestFramework:SeleniumFramworkDesign:0.0.1-SNAPSHOT @ C:\Users\kdcha\git\TestFramework\pom.xml.
+2025-03-10 21:41:49,911 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-03-10 21:41:49,911 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kdcha\git\TestFramework\src\main\resources
+2025-03-10 21:41:49,917 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-03-10 21:41:49,917 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kdcha\git\TestFramework\src\test\resources
+2025-03-10 21:42:21,373 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating SeleniumFramworkDesign_src.main.java.TestSuits.testng.xml from maven configuration

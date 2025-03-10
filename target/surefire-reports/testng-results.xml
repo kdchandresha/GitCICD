@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-10T19:14:35 IST" name="Suite" finished-at="2025-03-10T19:14:45 IST" duration-ms="9585">
+    <groups>
+      <group name="Error Handling">
+        <method signature="ErrorValidation.SubmitOrdValidationError()[pri:0, instance:TestFramework.Tests.ErrorValidation@4c2bb6e0]" name="SubmitOrdValidationError" class="TestFramework.Tests.ErrorValidation"/>
+        <method signature="ErrorValidation.loginError()[pri:0, instance:TestFramework.Tests.ErrorValidation@4c2bb6e0]" name="loginError" class="TestFramework.Tests.ErrorValidation"/>
+      </group> <!-- Error Handling -->
+    </groups>
+    <test started-at="2025-03-10T19:14:35 IST" name="Submit Order" finished-at="2025-03-10T19:14:35 IST" duration-ms="13">
+    </test> <!-- Submit Order -->
+    <test started-at="2025-03-10T19:14:35 IST" name="Error Validation" finished-at="2025-03-10T19:14:45 IST" duration-ms="9585">
+      <class name="TestFramework.Tests.ErrorValidation">
+        <test-method is-config="true" signature="launchBrwoser()[pri:0, instance:TestFramework.Tests.ErrorValidation@4c2bb6e0]" started-at="2025-03-10T19:14:35 IST" name="launchBrwoser" finished-at="2025-03-10T19:14:38 IST" duration-ms="2649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrwoser -->
+        <test-method signature="SubmitOrdValidationError()[pri:0, instance:TestFramework.Tests.ErrorValidation@4c2bb6e0]" started-at="2025-03-10T19:14:38 IST" name="SubmitOrdValidationError" finished-at="2025-03-10T19:14:41 IST" duration-ms="3477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitOrdValidationError -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestFramework.Tests.ErrorValidation@4c2bb6e0]" started-at="2025-03-10T19:14:41 IST" name="closeBrowser" finished-at="2025-03-10T19:14:41 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrwoser()[pri:0, instance:TestFramework.Tests.ErrorValidation@4c2bb6e0]" started-at="2025-03-10T19:14:41 IST" name="launchBrwoser" finished-at="2025-03-10T19:14:44 IST" duration-ms="2523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrwoser -->
+        <test-method signature="loginError()[pri:0, instance:TestFramework.Tests.ErrorValidation@4c2bb6e0]" started-at="2025-03-10T19:14:44 IST" name="loginError" finished-at="2025-03-10T19:14:44 IST" duration-ms="507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginError -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestFramework.Tests.ErrorValidation@4c2bb6e0]" started-at="2025-03-10T19:14:44 IST" name="closeBrowser" finished-at="2025-03-10T19:14:45 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestFramework.Tests.ErrorValidation -->
+    </test> <!-- Error Validation -->
+  </suite> <!-- Suite -->
+</testng-results>
