@@ -84,7 +84,7 @@
 							<configuration>
 								<suiteXmlFiles>
 									<suiteXmlFile>
-										C:\Users\kdcha\eclipse-workspace\SeleniumFramworkDesign\src\main\java\TestSuits\testng.xml</suiteXmlFile>
+										C:\Users\keyur.chandresha\git\GitCICD\src\main\java\TestSuits\testng.xml</suiteXmlFile>
 								</suiteXmlFiles>
 							</configuration>
 						</plugin>
@@ -107,7 +107,7 @@
 							<configuration>
 								<suiteXmlFiles>
 									<suiteXmlFile>
-										C:\Users\kdcha\eclipse-workspace\SeleniumFramworkDesign\src\main\java\TestSuits\ErrorHandlingTests.xml</suiteXmlFile>
+										C:\Users\keyur.chandresha\git\GitCICD\src\main\java\TestSuits\ErrorHandlingTests.xml</suiteXmlFile>
 								</suiteXmlFiles>
 							</configuration>
 						</plugin>
@@ -127,7 +127,7 @@
 					<configuration>
 						<suiteXmlFiles>
 							<suiteXmlFile>
-								C:\Users\kdcha\eclipse-workspace\SeleniumFramworkDesign\src\main\java\TestSuits\testng.xml</suiteXmlFile>
+								C:\Users\keyur.chandresha\git\GitCICD\src\main\java\TestSuits\testng.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
